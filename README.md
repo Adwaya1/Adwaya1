@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adwaya1
 - 👀 I’m interested in Coding. playing games(both)
-- 🌱 I’m currently learning JS, HTML, React Native
+- 🌱 I’m currently learning JS, HTML, React Native (High School)
 - 💞️ I’m looking to collaborate on all Languages
 - 📫 How to reach me vdeogharia@gmail.com
 
